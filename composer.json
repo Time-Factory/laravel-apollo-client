@@ -1,0 +1,25 @@
+{
+    "name": "timefactory/apollo",
+    "description": "apollo client for php & Laravel",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Timefactory\\Apollo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xuqihua",
+            "email": "qihuaxu@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
