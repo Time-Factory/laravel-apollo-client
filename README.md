@@ -5,7 +5,7 @@
 - Read the [Apollo Docs](https://www.apolloconfig.com/#/zh/README) for more information.
 ## install
 ```shell
-composer require timefactory/laravel-apollo-client
+composer require timefactory/apollo
 ```
 
 ## config app/Console/Kernel.php
